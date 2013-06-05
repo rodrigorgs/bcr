@@ -4,9 +4,11 @@ This script generates scale-free graphs that resemble dependency graphs extracte
 
 The graphs are directed and clustered, i.e., each vertex is assigned to a cluster, that can be seen as an architectural module. Thus, they can be used as benchmarks for software architecture recovery algorithms.
 
+If you prefer, you can download a [list of 2145 pre-generated software-realistic graphs](https://swasr.googlecode.com/files/synthetic_design.zip).
+
 ## Dependencies
 
-You'll need the Ruby programming language (at least v1.8).
+You'll need the [Ruby programming language](http://www.ruby-lang.org/) (at least v1.8).
 
 ## Running
 
