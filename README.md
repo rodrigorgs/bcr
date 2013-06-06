@@ -37,7 +37,7 @@ To synthesize a graph, you have to call the `create_bcr+.rb` script passing some
 
 Sample usage:
 
-    ./create_bcr+.rb -i sample-architecture.pairs 
+    ./create_bcr+.rb -i sample-architecture.pairs \
         -1 sample-l1.pairs \
         -2 sample-modules.pairs \
         -n 300 \
